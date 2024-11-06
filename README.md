@@ -1,7 +1,9 @@
 
 # Git and GitHub Hands-On Guide
-
-Welcome to the hands-on guide for learning Git and GitHub! This guide will walk you through essential Git commands with examples, so you can get comfortable with version control and collaboration on GitHub.
+### Date: 06-11-2024
+### Venue:  Seminar Hall Block C GCET-K 
+### Speaker: Dr. Auqib Hamid Lone [https://auqib.netlify.app/)]
+Welcome to the hands-on guide for learning Git and GitHub! This guide will walk you through essential Git commands with examples so you can get comfortable with version control and collaboration on GitHub.
 
 ## Table of Contents
 
